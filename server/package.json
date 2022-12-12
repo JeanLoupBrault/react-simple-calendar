@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "bl": "^4.0.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "file-system": "^2.2.2",
     "mongodb": "^3.5.7",
     "mongodb-client-encryption": "^1.0.1",
